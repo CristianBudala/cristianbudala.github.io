@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cristianbudala.github.io/sitemap.xml
